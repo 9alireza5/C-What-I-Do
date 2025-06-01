@@ -1,5 +1,3 @@
-// Simple file read and write
-
 #include <stdio.h>
 
 int main(void) {
